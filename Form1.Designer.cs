@@ -24,139 +24,139 @@
         /// </summary>
         private void InitializeComponent() {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom1 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom2 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom3 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom4 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom5 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom6 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Bank 1 (Button 1)", new System.Windows.Forms.TreeNode[] {
-            treeNode1,
-            treeNode2,
-            treeNode3,
-            treeNode4,
-            treeNode5,
-            treeNode6});
-            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom7 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom8 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom9 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom10 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom11 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom12 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("Bank 2 (Button 2)", new System.Windows.Forms.TreeNode[] {
-            treeNode8,
-            treeNode9,
-            treeNode10,
-            treeNode11,
-            treeNode12,
-            treeNode13});
-            System.Windows.Forms.TreeNode treeNode15 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom13 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom14 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode17 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom15 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode18 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom16 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode19 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom17 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode20 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom18 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode21 = new System.Windows.Forms.TreeNode("Bank 3 (Start)", new System.Windows.Forms.TreeNode[] {
-            treeNode15,
-            treeNode16,
-            treeNode17,
-            treeNode18,
-            treeNode19,
-            treeNode20});
-            System.Windows.Forms.TreeNode treeNode22 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom19 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode23 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom20 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode24 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom21 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode25 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom22 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode26 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom23 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode27 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom24 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode28 = new System.Windows.Forms.TreeNode("Bank 4 (Up)", new System.Windows.Forms.TreeNode[] {
-            treeNode22,
-            treeNode23,
-            treeNode24,
-            treeNode25,
-            treeNode26,
-            treeNode27});
-            System.Windows.Forms.TreeNode treeNode29 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom25 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode30 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom26 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode31 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom27 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode32 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom28 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode33 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom29 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode34 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom30 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode35 = new System.Windows.Forms.TreeNode("Bank 5 (Left)", new System.Windows.Forms.TreeNode[] {
-            treeNode29,
-            treeNode30,
-            treeNode31,
-            treeNode32,
-            treeNode33,
-            treeNode34});
-            System.Windows.Forms.TreeNode treeNode36 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom31 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode37 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom32 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode38 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom33 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode39 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom34 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode40 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom35 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode41 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom36 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode42 = new System.Windows.Forms.TreeNode("Bank 6 (Down)", new System.Windows.Forms.TreeNode[] {
-            treeNode36,
-            treeNode37,
-            treeNode38,
-            treeNode39,
-            treeNode40,
-            treeNode41});
-            System.Windows.Forms.TreeNode treeNode43 = new System.Windows.Forms.TreeNode("ROM 1");
-            GameGearMicroCFWPackager.ROM rom37 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode44 = new System.Windows.Forms.TreeNode("ROM 2");
-            GameGearMicroCFWPackager.ROM rom38 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode45 = new System.Windows.Forms.TreeNode("ROM 3");
-            GameGearMicroCFWPackager.ROM rom39 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode46 = new System.Windows.Forms.TreeNode("ROM 4");
-            GameGearMicroCFWPackager.ROM rom40 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode47 = new System.Windows.Forms.TreeNode("ROM 5");
-            GameGearMicroCFWPackager.ROM rom41 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode48 = new System.Windows.Forms.TreeNode("ROM 6");
-            GameGearMicroCFWPackager.ROM rom42 = new GameGearMicroCFWPackager.ROM();
-            System.Windows.Forms.TreeNode treeNode49 = new System.Windows.Forms.TreeNode("Bank 7 (Right)", new System.Windows.Forms.TreeNode[] {
-            treeNode43,
-            treeNode44,
-            treeNode45,
-            treeNode46,
-            treeNode47,
-            treeNode48});
+            System.Windows.Forms.TreeNode treeNode50 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom43 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode51 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom44 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode52 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom45 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode53 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom46 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode54 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom47 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode55 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom48 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode56 = new System.Windows.Forms.TreeNode("Bank 1 (Button 1)", new System.Windows.Forms.TreeNode[] {
+            treeNode50,
+            treeNode51,
+            treeNode52,
+            treeNode53,
+            treeNode54,
+            treeNode55});
+            System.Windows.Forms.TreeNode treeNode57 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom49 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode58 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom50 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode59 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom51 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode60 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom52 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode61 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom53 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode62 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom54 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode63 = new System.Windows.Forms.TreeNode("Bank 2 (Button 2)", new System.Windows.Forms.TreeNode[] {
+            treeNode57,
+            treeNode58,
+            treeNode59,
+            treeNode60,
+            treeNode61,
+            treeNode62});
+            System.Windows.Forms.TreeNode treeNode64 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom55 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode65 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom56 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode66 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom57 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode67 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom58 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode68 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom59 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode69 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom60 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode70 = new System.Windows.Forms.TreeNode("Bank 3 (Start)", new System.Windows.Forms.TreeNode[] {
+            treeNode64,
+            treeNode65,
+            treeNode66,
+            treeNode67,
+            treeNode68,
+            treeNode69});
+            System.Windows.Forms.TreeNode treeNode71 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom61 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode72 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom62 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode73 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom63 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode74 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom64 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode75 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom65 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode76 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom66 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode77 = new System.Windows.Forms.TreeNode("Bank 4 (Up)", new System.Windows.Forms.TreeNode[] {
+            treeNode71,
+            treeNode72,
+            treeNode73,
+            treeNode74,
+            treeNode75,
+            treeNode76});
+            System.Windows.Forms.TreeNode treeNode78 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom67 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode79 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom68 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode80 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom69 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode81 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom70 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode82 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom71 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode83 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom72 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode84 = new System.Windows.Forms.TreeNode("Bank 5 (Left)", new System.Windows.Forms.TreeNode[] {
+            treeNode78,
+            treeNode79,
+            treeNode80,
+            treeNode81,
+            treeNode82,
+            treeNode83});
+            System.Windows.Forms.TreeNode treeNode85 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom73 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode86 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom74 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode87 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom75 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode88 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom76 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode89 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom77 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode90 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom78 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode91 = new System.Windows.Forms.TreeNode("Bank 6 (Down)", new System.Windows.Forms.TreeNode[] {
+            treeNode85,
+            treeNode86,
+            treeNode87,
+            treeNode88,
+            treeNode89,
+            treeNode90});
+            System.Windows.Forms.TreeNode treeNode92 = new System.Windows.Forms.TreeNode("ROM 1");
+            GameGearMicroCFWPackager.ROM rom79 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode93 = new System.Windows.Forms.TreeNode("ROM 2");
+            GameGearMicroCFWPackager.ROM rom80 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode94 = new System.Windows.Forms.TreeNode("ROM 3");
+            GameGearMicroCFWPackager.ROM rom81 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode95 = new System.Windows.Forms.TreeNode("ROM 4");
+            GameGearMicroCFWPackager.ROM rom82 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode96 = new System.Windows.Forms.TreeNode("ROM 5");
+            GameGearMicroCFWPackager.ROM rom83 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode97 = new System.Windows.Forms.TreeNode("ROM 6");
+            GameGearMicroCFWPackager.ROM rom84 = new GameGearMicroCFWPackager.ROM();
+            System.Windows.Forms.TreeNode treeNode98 = new System.Windows.Forms.TreeNode("Bank 7 (Right)", new System.Windows.Forms.TreeNode[] {
+            treeNode92,
+            treeNode93,
+            treeNode94,
+            treeNode95,
+            treeNode96,
+            treeNode97});
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainUI));
             this.RomBanks = new System.Windows.Forms.TreeView();
             this.RomContextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
@@ -186,6 +186,7 @@
             this.BtnListColorBG = new System.Windows.Forms.Button();
             this.ListTextPreviewBG = new System.Windows.Forms.TextBox();
             this.GridViewFontColorBG = new System.Windows.Forms.ColorDialog();
+            this.justTheTip = new System.Windows.Forms.ToolTip(this.components);
             this.RomContextMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Png01)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Png03)).BeginInit();
@@ -199,203 +200,203 @@
             this.RomBanks.ContextMenuStrip = this.RomContextMenu;
             this.RomBanks.Location = new System.Drawing.Point(12, 25);
             this.RomBanks.Name = "RomBanks";
-            treeNode1.Name = "Rom11";
-            treeNode1.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode1.Tag = rom1;
-            treeNode1.Text = "ROM 1";
-            treeNode2.Name = "Rom12";
-            treeNode2.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode2.Tag = rom2;
-            treeNode2.Text = "ROM 2";
-            treeNode3.Name = "Rom13";
-            treeNode3.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode3.Tag = rom3;
-            treeNode3.Text = "ROM 3";
-            treeNode4.Name = "Rom14";
-            treeNode4.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode4.Tag = rom4;
-            treeNode4.Text = "ROM 4";
-            treeNode5.Name = "Rom15";
-            treeNode5.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode5.Tag = rom5;
-            treeNode5.Text = "ROM 5";
-            treeNode6.Name = "Rom16";
-            treeNode6.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode6.Tag = rom6;
-            treeNode6.Text = "ROM 6";
-            treeNode7.Name = "Bank1";
-            treeNode7.Tag = "1";
-            treeNode7.Text = "Bank 1 (Button 1)";
-            treeNode8.Name = "Rom21";
-            treeNode8.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode8.Tag = rom7;
-            treeNode8.Text = "ROM 1";
-            treeNode9.Name = "Rom22";
-            treeNode9.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode9.Tag = rom8;
-            treeNode9.Text = "ROM 2";
-            treeNode10.Name = "Rom23";
-            treeNode10.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode10.Tag = rom9;
-            treeNode10.Text = "ROM 3";
-            treeNode11.Name = "Rom24";
-            treeNode11.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode11.Tag = rom10;
-            treeNode11.Text = "ROM 4";
-            treeNode12.Name = "Rom25";
-            treeNode12.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode12.Tag = rom11;
-            treeNode12.Text = "ROM 5";
-            treeNode13.Name = "Rom26";
-            treeNode13.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode13.Tag = rom12;
-            treeNode13.Text = "ROM 6";
-            treeNode14.Name = "Bank2";
-            treeNode14.Tag = "2";
-            treeNode14.Text = "Bank 2 (Button 2)";
-            treeNode15.Name = "Rom31";
-            treeNode15.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode15.Tag = rom13;
-            treeNode15.Text = "ROM 1";
-            treeNode16.Name = "Rom32";
-            treeNode16.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode16.Tag = rom14;
-            treeNode16.Text = "ROM 2";
-            treeNode17.Name = "Rom33";
-            treeNode17.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode17.Tag = rom15;
-            treeNode17.Text = "ROM 3";
-            treeNode18.Name = "Rom34";
-            treeNode18.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode18.Tag = rom16;
-            treeNode18.Text = "ROM 4";
-            treeNode19.Name = "Rom35";
-            treeNode19.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode19.Tag = rom17;
-            treeNode19.Text = "ROM 5";
-            treeNode20.Name = "Rom36";
-            treeNode20.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode20.Tag = rom18;
-            treeNode20.Text = "ROM 6";
-            treeNode21.Name = "Bank3";
-            treeNode21.Tag = "3";
-            treeNode21.Text = "Bank 3 (Start)";
-            treeNode22.Name = "Rom41";
-            treeNode22.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode22.Tag = rom19;
-            treeNode22.Text = "ROM 1";
-            treeNode23.Name = "Rom42";
-            treeNode23.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode23.Tag = rom20;
-            treeNode23.Text = "ROM 2";
-            treeNode24.Name = "Rom43";
-            treeNode24.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode24.Tag = rom21;
-            treeNode24.Text = "ROM 3";
-            treeNode25.Name = "Rom44";
-            treeNode25.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode25.Tag = rom22;
-            treeNode25.Text = "ROM 4";
-            treeNode26.Name = "Rom45";
-            treeNode26.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode26.Tag = rom23;
-            treeNode26.Text = "ROM 5";
-            treeNode27.Name = "Rom46";
-            treeNode27.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode27.Tag = rom24;
-            treeNode27.Text = "ROM 6";
-            treeNode28.Name = "Bank4";
-            treeNode28.Tag = "4";
-            treeNode28.Text = "Bank 4 (Up)";
-            treeNode29.Name = "Rom51";
-            treeNode29.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode29.Tag = rom25;
-            treeNode29.Text = "ROM 1";
-            treeNode30.Name = "Rom52";
-            treeNode30.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode30.Tag = rom26;
-            treeNode30.Text = "ROM 2";
-            treeNode31.Name = "Rom53";
-            treeNode31.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode31.Tag = rom27;
-            treeNode31.Text = "ROM 3";
-            treeNode32.Name = "Rom54";
-            treeNode32.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode32.Tag = rom28;
-            treeNode32.Text = "ROM 4";
-            treeNode33.Name = "Rom55";
-            treeNode33.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode33.Tag = rom29;
-            treeNode33.Text = "ROM 5";
-            treeNode34.Name = "Rom56";
-            treeNode34.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode34.Tag = rom30;
-            treeNode34.Text = "ROM 6";
-            treeNode35.Name = "Bank5";
-            treeNode35.Tag = "5";
-            treeNode35.Text = "Bank 5 (Left)";
-            treeNode36.Name = "Rom61";
-            treeNode36.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode36.Tag = rom31;
-            treeNode36.Text = "ROM 1";
-            treeNode37.Name = "Rom62";
-            treeNode37.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode37.Tag = rom32;
-            treeNode37.Text = "ROM 2";
-            treeNode38.Name = "Rom63";
-            treeNode38.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode38.Tag = rom33;
-            treeNode38.Text = "ROM 3";
-            treeNode39.Name = "Rom64";
-            treeNode39.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode39.Tag = rom34;
-            treeNode39.Text = "ROM 4";
-            treeNode40.Name = "Rom65";
-            treeNode40.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode40.Tag = rom35;
-            treeNode40.Text = "ROM 5";
-            treeNode41.Name = "Rom66";
-            treeNode41.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode41.Tag = rom36;
-            treeNode41.Text = "ROM 6";
-            treeNode42.Name = "Bank6";
-            treeNode42.Tag = "6";
-            treeNode42.Text = "Bank 6 (Down)";
-            treeNode43.Name = "Rom71";
-            treeNode43.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode43.Tag = rom37;
-            treeNode43.Text = "ROM 1";
-            treeNode44.Name = "Rom72";
-            treeNode44.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
-            treeNode44.Tag = rom38;
-            treeNode44.Text = "ROM 2";
-            treeNode45.Name = "Rom73";
-            treeNode45.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode45.Tag = rom39;
-            treeNode45.Text = "ROM 3";
-            treeNode46.Name = "Rom74";
-            treeNode46.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode46.Tag = rom40;
-            treeNode46.Text = "ROM 4";
-            treeNode47.Name = "Rom75";
-            treeNode47.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            treeNode47.Tag = rom41;
-            treeNode47.Text = "ROM 5";
-            treeNode48.Name = "Rom76";
-            treeNode48.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            treeNode48.Tag = rom42;
-            treeNode48.Text = "ROM 6";
-            treeNode49.Name = "Bank7";
-            treeNode49.Tag = "7";
-            treeNode49.Text = "Bank 7 (Right)";
+            treeNode50.Name = "Rom11";
+            treeNode50.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode50.Tag = rom43;
+            treeNode50.Text = "ROM 1";
+            treeNode51.Name = "Rom12";
+            treeNode51.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode51.Tag = rom44;
+            treeNode51.Text = "ROM 2";
+            treeNode52.Name = "Rom13";
+            treeNode52.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode52.Tag = rom45;
+            treeNode52.Text = "ROM 3";
+            treeNode53.Name = "Rom14";
+            treeNode53.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode53.Tag = rom46;
+            treeNode53.Text = "ROM 4";
+            treeNode54.Name = "Rom15";
+            treeNode54.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode54.Tag = rom47;
+            treeNode54.Text = "ROM 5";
+            treeNode55.Name = "Rom16";
+            treeNode55.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode55.Tag = rom48;
+            treeNode55.Text = "ROM 6";
+            treeNode56.Name = "Bank1";
+            treeNode56.Tag = "1";
+            treeNode56.Text = "Bank 1 (Button 1)";
+            treeNode57.Name = "Rom21";
+            treeNode57.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode57.Tag = rom49;
+            treeNode57.Text = "ROM 1";
+            treeNode58.Name = "Rom22";
+            treeNode58.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode58.Tag = rom50;
+            treeNode58.Text = "ROM 2";
+            treeNode59.Name = "Rom23";
+            treeNode59.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode59.Tag = rom51;
+            treeNode59.Text = "ROM 3";
+            treeNode60.Name = "Rom24";
+            treeNode60.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode60.Tag = rom52;
+            treeNode60.Text = "ROM 4";
+            treeNode61.Name = "Rom25";
+            treeNode61.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode61.Tag = rom53;
+            treeNode61.Text = "ROM 5";
+            treeNode62.Name = "Rom26";
+            treeNode62.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode62.Tag = rom54;
+            treeNode62.Text = "ROM 6";
+            treeNode63.Name = "Bank2";
+            treeNode63.Tag = "2";
+            treeNode63.Text = "Bank 2 (Button 2)";
+            treeNode64.Name = "Rom31";
+            treeNode64.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode64.Tag = rom55;
+            treeNode64.Text = "ROM 1";
+            treeNode65.Name = "Rom32";
+            treeNode65.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode65.Tag = rom56;
+            treeNode65.Text = "ROM 2";
+            treeNode66.Name = "Rom33";
+            treeNode66.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode66.Tag = rom57;
+            treeNode66.Text = "ROM 3";
+            treeNode67.Name = "Rom34";
+            treeNode67.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode67.Tag = rom58;
+            treeNode67.Text = "ROM 4";
+            treeNode68.Name = "Rom35";
+            treeNode68.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode68.Tag = rom59;
+            treeNode68.Text = "ROM 5";
+            treeNode69.Name = "Rom36";
+            treeNode69.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode69.Tag = rom60;
+            treeNode69.Text = "ROM 6";
+            treeNode70.Name = "Bank3";
+            treeNode70.Tag = "3";
+            treeNode70.Text = "Bank 3 (Start)";
+            treeNode71.Name = "Rom41";
+            treeNode71.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode71.Tag = rom61;
+            treeNode71.Text = "ROM 1";
+            treeNode72.Name = "Rom42";
+            treeNode72.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode72.Tag = rom62;
+            treeNode72.Text = "ROM 2";
+            treeNode73.Name = "Rom43";
+            treeNode73.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode73.Tag = rom63;
+            treeNode73.Text = "ROM 3";
+            treeNode74.Name = "Rom44";
+            treeNode74.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode74.Tag = rom64;
+            treeNode74.Text = "ROM 4";
+            treeNode75.Name = "Rom45";
+            treeNode75.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode75.Tag = rom65;
+            treeNode75.Text = "ROM 5";
+            treeNode76.Name = "Rom46";
+            treeNode76.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode76.Tag = rom66;
+            treeNode76.Text = "ROM 6";
+            treeNode77.Name = "Bank4";
+            treeNode77.Tag = "4";
+            treeNode77.Text = "Bank 4 (Up)";
+            treeNode78.Name = "Rom51";
+            treeNode78.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode78.Tag = rom67;
+            treeNode78.Text = "ROM 1";
+            treeNode79.Name = "Rom52";
+            treeNode79.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode79.Tag = rom68;
+            treeNode79.Text = "ROM 2";
+            treeNode80.Name = "Rom53";
+            treeNode80.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode80.Tag = rom69;
+            treeNode80.Text = "ROM 3";
+            treeNode81.Name = "Rom54";
+            treeNode81.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode81.Tag = rom70;
+            treeNode81.Text = "ROM 4";
+            treeNode82.Name = "Rom55";
+            treeNode82.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode82.Tag = rom71;
+            treeNode82.Text = "ROM 5";
+            treeNode83.Name = "Rom56";
+            treeNode83.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode83.Tag = rom72;
+            treeNode83.Text = "ROM 6";
+            treeNode84.Name = "Bank5";
+            treeNode84.Tag = "5";
+            treeNode84.Text = "Bank 5 (Left)";
+            treeNode85.Name = "Rom61";
+            treeNode85.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode85.Tag = rom73;
+            treeNode85.Text = "ROM 1";
+            treeNode86.Name = "Rom62";
+            treeNode86.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode86.Tag = rom74;
+            treeNode86.Text = "ROM 2";
+            treeNode87.Name = "Rom63";
+            treeNode87.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode87.Tag = rom75;
+            treeNode87.Text = "ROM 3";
+            treeNode88.Name = "Rom64";
+            treeNode88.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode88.Tag = rom76;
+            treeNode88.Text = "ROM 4";
+            treeNode89.Name = "Rom65";
+            treeNode89.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode89.Tag = rom77;
+            treeNode89.Text = "ROM 5";
+            treeNode90.Name = "Rom66";
+            treeNode90.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode90.Tag = rom78;
+            treeNode90.Text = "ROM 6";
+            treeNode91.Name = "Bank6";
+            treeNode91.Tag = "6";
+            treeNode91.Text = "Bank 6 (Down)";
+            treeNode92.Name = "Rom71";
+            treeNode92.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode92.Tag = rom79;
+            treeNode92.Text = "ROM 1";
+            treeNode93.Name = "Rom72";
+            treeNode93.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic);
+            treeNode93.Tag = rom80;
+            treeNode93.Text = "ROM 2";
+            treeNode94.Name = "Rom73";
+            treeNode94.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode94.Tag = rom81;
+            treeNode94.Text = "ROM 3";
+            treeNode95.Name = "Rom74";
+            treeNode95.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode95.Tag = rom82;
+            treeNode95.Text = "ROM 4";
+            treeNode96.Name = "Rom75";
+            treeNode96.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            treeNode96.Tag = rom83;
+            treeNode96.Text = "ROM 5";
+            treeNode97.Name = "Rom76";
+            treeNode97.NodeFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            treeNode97.Tag = rom84;
+            treeNode97.Text = "ROM 6";
+            treeNode98.Name = "Bank7";
+            treeNode98.Tag = "7";
+            treeNode98.Text = "Bank 7 (Right)";
             this.RomBanks.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode7,
-            treeNode14,
-            treeNode21,
-            treeNode28,
-            treeNode35,
-            treeNode42,
-            treeNode49});
+            treeNode56,
+            treeNode63,
+            treeNode70,
+            treeNode77,
+            treeNode84,
+            treeNode91,
+            treeNode98});
             this.RomBanks.Size = new System.Drawing.Size(236, 490);
             this.RomBanks.TabIndex = 0;
             this.RomBanks.ItemDrag += new System.Windows.Forms.ItemDragEventHandler(this.RomBanks_ItemDrag);
@@ -475,6 +476,8 @@
             this.BtnDoBuild.Size = new System.Drawing.Size(153, 69);
             this.BtnDoBuild.TabIndex = 8;
             this.BtnDoBuild.Text = "Compile existing content into packages";
+            this.justTheTip.SetToolTip(this.BtnDoBuild, "Rebuilds all Set\\Banks\\Bank\\IMG??\r\nand Set\\Banks\\Bank\\ROM?? files\r\nfrom rom files" +
+        " and images\r\nin Set\\Banks\\Bank\\Bank?\\");
             this.BtnDoBuild.UseVisualStyleBackColor = true;
             this.BtnDoBuild.Click += new System.EventHandler(this.BtnDoBuild_Click);
             // 
@@ -485,6 +488,9 @@
             this.BtnDoGenArt.Size = new System.Drawing.Size(153, 69);
             this.BtnDoGenArt.TabIndex = 9;
             this.BtnDoGenArt.Text = "Generate artwork from templates and icons";
+            this.justTheTip.SetToolTip(this.BtnDoGenArt, "Generates Set\\Banks\\Bank\\Bank?\\0?.png\r\nfiles by rendering the text and combining\r" +
+        "\nthe artwork in Set\\Artwork\\GameName.png\r\nwith the template images Set\\Common\\0?" +
+        ".png");
             this.BtnDoGenArt.UseVisualStyleBackColor = true;
             this.BtnDoGenArt.Click += new System.EventHandler(this.BtnDoGenArt_Click);
             // 
@@ -503,6 +509,9 @@
             this.BtnDoUpload.Size = new System.Drawing.Size(153, 69);
             this.BtnDoUpload.TabIndex = 11;
             this.BtnDoUpload.Text = "Send built packages to GameGear";
+            this.justTheTip.SetToolTip(this.BtnDoUpload, "Try to connect to sftp://root@169.254.215.100 and\r\nupload all Set\\Banks\\ROM0? and" +
+        "\r\nall Set\\Banks\\IMG0? files to /mnt/UDISK\r\nexcept for 7, which is written to /mn" +
+        "t/UDISK/system");
             this.BtnDoUpload.UseVisualStyleBackColor = true;
             this.BtnDoUpload.Click += new System.EventHandler(this.BtnDoUpload_Click);
             // 
@@ -695,6 +704,7 @@
         private System.Windows.Forms.Button BtnListColorBG;
         private System.Windows.Forms.TextBox ListTextPreviewBG;
         private System.Windows.Forms.ColorDialog GridViewFontColorBG;
+        private System.Windows.Forms.ToolTip justTheTip;
     }
 }
 

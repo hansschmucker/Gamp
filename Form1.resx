@@ -120,6 +120,9 @@
   <metadata name="RomContextMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1126, 17</value>
+  </metadata>
   <data name="richTextBox1.Text" xml:space="preserve">
     <value>
 Welcome to GameGearMicro Custom FirmWare Packager
@@ -192,6 +195,9 @@ If your happy with the results, click "Compile ... into packages". Note that thi
 	This is so that you can manually edit the generated artwork if you want to.
 If you want to install the packages, you'll need an open connection first, so open GGMCFW.exe, click slot update and follow the instructions before clicking it.</value>
   </data>
+  <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1126, 17</value>
+  </metadata>
   <metadata name="GridViewFontDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>168, 17</value>
   </metadata>
@@ -206,5 +212,8 @@ If you want to install the packages, you'll need an open connection first, so op
   </metadata>
   <metadata name="GridViewFontColorBG.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>754, 17</value>
+  </metadata>
+  <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>923, 17</value>
   </metadata>
 </root>
