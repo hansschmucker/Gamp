@@ -123,6 +123,17 @@
   <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1126, 17</value>
   </metadata>
+  <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>923, 17</value>
+  </metadata>
+  <data name="BtnDoGenArt.ToolTip" xml:space="preserve">
+    <value>Generates Set\Banks\Bank\Bank?\0?.png
+files by rendering the text and combining
+the artwork in Set\Artwork\GameName.png
+with the template images Set\Common\0?.png
+Also reduces fidelity of the images in order
+to make them fit the size constraints</value>
+  </data>
   <data name="richTextBox1.Text" xml:space="preserve">
     <value>
 Welcome to GameGearMicro Custom FirmWare Packager
@@ -212,8 +223,5 @@ If you want to install the packages, you'll need an open connection first, so op
   </metadata>
   <metadata name="GridViewFontColorBG.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>754, 17</value>
-  </metadata>
-  <metadata name="justTheTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>923, 17</value>
   </metadata>
 </root>
